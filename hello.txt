@@ -11,3 +11,4 @@ hello git!!
 modify v1 master do
 modify v1 hot-fix do
 hot-fix: modify v1
+add by member
