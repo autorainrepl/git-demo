@@ -8,5 +8,5 @@ hello git!!
 modify v2
 hello git!!
 hello git!!
-modify v1
+modify v1 master do
 hot-fix: modify v1
